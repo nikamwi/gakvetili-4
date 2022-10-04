@@ -74,11 +74,11 @@ article p, article .meore{
     opacity: 0.5;
     padding: 5px 10px;
 }
-footer{
+.indexisfooter{
     clear: both;
 }
-footer p{
-    margin: 34px;
+.indexisfooter p{
+    padding: 224px 0 30px 36px;
 }
 /*----------------production1 style---------------*/
 .production1{
@@ -120,6 +120,12 @@ margin: 34px;
 }
 .production1 p{
     font-size: 14px;
+}
+footer{
+    clear: both;
+}
+footer p{
+    padding: 46px 0 30px 36px;
 }
 /* -------------production2---------------- */
 .production2{
